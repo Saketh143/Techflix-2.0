@@ -58,6 +58,11 @@ body {
 	font-weight: 500;
 	color: #d4d4d4;
 }
+
+.logo img
+{
+	width: 80px;
+}
 .img {
 	max-width: 100%;
 	transition: all 0.3s ease-out 0s;
@@ -494,9 +499,11 @@ ul.minicart .cart-content a:hover,
 	color: #1c1121;
 }
 .main-header {
-	background-image: url(../img/bg/header_bg.jpg);
+	background-color: #131418;
+	opacity: 0.9;
+	/* background-image: url(../img/bg/header_bg.jpg);
 	background-position: right center;
-	background-size: cover;
+	background-size: cover; */
 	position: relative;
 }
 .main-menu nav {
@@ -718,9 +725,11 @@ ul.minicart .cart-price .new {
 .menu-style-two {
 	padding: 28px 30px;
 	border-radius: 0 0 14px 14px;
-	background-image: url(../img/bg/header_bg.jpg);
+	background-color: #131418;
+	opacity: 0.8;
+	/* background-image: url(../img/bg/header_bg.jpg);
 	background-position: right center;
-	background-size: cover;
+	background-size: cover; */
 	position: relative;
 }
 .transparent-header {
@@ -1145,7 +1154,7 @@ ul.minicart .cart-price .new {
 	background-size: cover;
 }
 .s-breadcrumb-bg {
-	background-image: url(../img/bg/breadcrumb_bg02.jpg);
+	background-image: url(../img/bg/bg-1.jpg);
 }
 .third-breadcrumb-bg {
 	background-image: url(../img/bg/breadcrumb_bg03.jpg);
