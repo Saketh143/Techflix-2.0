@@ -173,6 +173,18 @@
 .post-wrapper .post.vfx-icon .stem-overlay .icon {
 	background-image: url(../img/icon/vfx-1.png);
 }
+.post-wrapper .post.hunt-icon .stem-overlay .icon {
+	background-image: url(../img/icon/treasure_hunt.png);
+}
+.post-wrapper .post.crypto-icon .stem-overlay .icon {
+	background-image: url(../img/icon/crypto.png);
+}
+.post-wrapper .post.gfg-icon .stem-overlay .icon {
+	background-image: url(../img/icon/gfg.png);
+}
+.post-wrapper .post.music-icon .stem-overlay .icon {
+	background-image: url(../img/icon/music.png);
+}
  .post-wrapper .post .stem-overlay {
 	 position: absolute;
 	 top: 0px;
