@@ -158,17 +158,20 @@
  .post-wrapper .post:nth-child(odd) .stem-overlay {
 	 right: -110px;
 }
- .post-wrapper .post.music-icon .stem-overlay .icon {
-	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/22043/music-icon.png);
+ .post-wrapper .post.cv-icon .stem-overlay .icon {
+	 background-image: url(../img/icon/cv.png);
 }
- .post-wrapper .post.bitbucket-icon .stem-overlay .icon {
-	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/22043/bitbucket-icon.png);
+ .post-wrapper .post.hacker-icon .stem-overlay .icon {
+	 background-image: url(../img/icon/hacker.png);
 }
- .post-wrapper .post.m-icon .stem-overlay .icon {
-	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/22043/m-icon.png);
+ .post-wrapper .post.coding-icon .stem-overlay .icon {
+	 background-image: url(../img/icon/coding.png);
 }
- .post-wrapper .post.twitter-icon .stem-overlay .icon {
-	 background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/22043/twitter-icon.png);
+ .post-wrapper .post.quiz-icon .stem-overlay .icon {
+	 background-image: url(../img/icon/quiz.png);
+}
+.post-wrapper .post.vfx-icon .stem-overlay .icon {
+	background-image: url(../img/icon/vfx-1.png);
 }
  .post-wrapper .post .stem-overlay {
 	 position: absolute;

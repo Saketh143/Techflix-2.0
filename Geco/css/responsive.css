@@ -202,7 +202,10 @@
 	background-image: none;
 }
 .transparent-header {
-	background-image: url(../img/bg/header_bg.jpg);
+	background-color: #131418;
+	padding: 28px 30px;
+	border-radius: 0 0 14px 14px;
+    opacity: 0.8;
 }
 .menu-style-two .navbar-wrap ul li a {
 	padding: 15px 20px;
