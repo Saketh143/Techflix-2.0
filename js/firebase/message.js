@@ -11,7 +11,6 @@ const subscribe = () => {
     let email = document.getElementById("newsletter_email").value;
 
 
-
     if (validateEmail(email)) {
         firebase
             .database()
